@@ -13,6 +13,8 @@ namespace adbms_group_project.Data
         {
         }
 
+
         public DbSet<Camp> Camps { get; set; }
     }
+
 }
